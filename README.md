@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soren</h1>
-<h3 align="center">A passionate Health-Tech engineering student from Denmark</h3>
+<h3 align="center">A passionate Health-Tech engineer from Denmark</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soerenmehlsen" alt="soerenmehlsen" /></a> </p>
-
-- 🌱 I’m currently learning **Back-end course**
+- 🌱 I’m currently looking for a **fulltime job**
 
 - 📫 How to reach me **soeren48@hotmail.com**
 
