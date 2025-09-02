@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **soeren48@hotmail.com**
 
-- Check out my portfolio: <a href="https://soerenmehlsen.me">soerenmehlsen.tech</a>
+- Check out my portfolio: <a href="https://soerenmehlsen.tech">soerenmehlsen.tech</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
