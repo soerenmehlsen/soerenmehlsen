@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soren</h1>
 <h3 align="center">A passionate Health-Tech engineer from Denmark</h3>
 
-- 🌱 I’m currently looking for a **fulltime job**
-
 - 📫 How to reach me **soeren48@hotmail.com**
 
 - Check out my portfolio: <a href="https://soerenmehlsen.tech">soerenmehlsen.tech</a>
